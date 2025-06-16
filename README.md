@@ -1,6 +1,9 @@
 # AWS EC2 Instance Terraform module for IDEM deployments
 
-Terraform module which creates an EC2 instance on AWS.
+ <div align="center">
+   <img src="public/logo_white.png" alt="Idem Logo" width="200">
+   <p><strong>AI-Powered Software Development Lifecycle Generator</strong></p>
+ </div>
 
 ## Usage
 
